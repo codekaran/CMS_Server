@@ -1,0 +1,44 @@
+{
+    "meta":{
+       "title":"",
+       "description":""
+    },
+    "sections":[
+       {
+          "Heading":"<p>Diensten</p>"
+       },
+       {
+          "Heading":"WAT WIJ DOEN",
+          "SubHeading":"Een 360 graden oplossing voor elk bedrijf",
+          "Intro":"We zijn er om je te helpen. Van kleine tot enorme problemen, er is altijd een oplossing. Hier zijn enkele voorbeelden van wat we doen."
+       },
+       {
+          "Heading":"ONS PROCES",
+          "SubHeading":"Een oplossing op maat gemaakt",
+          "Intro":"Een probleem lost zichzelf niet op, dus laat ons je helpen.",
+          "CardHeading1":"Samenwerking",
+          "CardInfo1":"We werken nauw samen met onze partners voor de beste resultaten.",
+          "CardHeading2":"Volledige oplossingen",
+          "CardInfo2":"Wij helpen je op alle digitale vlakken.",
+          "CardHeading3":"Correctie",
+          "CardInfo3":"Niks is afgewerkt voor we alles met de klant hebben bekeken."
+       
+          
+          
+       },
+       {
+          "Heading1":"Websites",
+          "Intro1":"Professionele op maat gemaakt voor u en uw klanten. Gemaakt met CMS zodat je zelf ook toegang hebt.",
+          "Heading2":"WebShops",
+          "Intro2":"Een webshop om online te verkopen en je zaak te doen groeien.",
+          "Heading3":"SEO & SEA",
+          "Intro3":"Seo & sea brengen meer klanten naar je website. Zo ontdekken meer klanten je zaak."
+          
+          
+       },
+       {
+          "Heading":"Een nieuw project in gedachte?",
+          "Intro":"Een nieuw project in gedachte? Weet je niet waar eerst begonnen met je project ? Laat ons je adviseren hoe het beste aan de slag te gaan en je doel te bereiken. Don’t know how to start your new project? Let us help you find the best solution and achieve your goal."
+       }
+    ]
+ }

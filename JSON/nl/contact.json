@@ -1,0 +1,19 @@
+{
+    "meta":{
+       "title":"",
+       "description":""
+    },
+    "sections":[
+        {
+            "Heading":"Contact Us"
+          },
+          {
+          "Heading": "CONTACT",
+          "SubHeading": "Feel free to get in touch",
+          "IntroPart1": "We are excited to hear from you.",
+          "IntroPart2":
+            "Do you want to start a new project?  Do you need more information? Do you like to know more about us?"
+        }
+
+    ]
+ }
