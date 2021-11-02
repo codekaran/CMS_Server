@@ -1,0 +1,39 @@
+{
+   "meta":{
+      "title":"",
+      "description":""
+   },
+   "sections":[
+      {
+         
+      },
+      {
+       "Heading": "WHAT WE DO",
+       "SubHeading": "We design websites to your needs, so that you can display your business on the internet.",
+       "Intro":
+         "A website is more than just a marketplace it’s a face of your company. A good website nowadays is as important as a good service. The first thing many people do is to search your company and then come to you personally.<br/><br/>So why not make a fully equipped and beautiful website. This allows you to get new customers more easily and keep the standards high for the current ones."
+      },
+      {
+           "Heading1": "Your Ideas",
+           "Intro1":
+             "Here at webfixxers we believe that a website should be made together with our clients. In this way we ensure everything is made to your liking. If you need a webshop, website or help. No problem for us. We’ll sculpt and finish the website along the way. So we can offer you the best products, we will need to come together and talk about your needs and wishes. So don’t hesitate to contact us.",
+           "Heading2": "Budget",
+           "Intro2":
+             "Not everyone has the same budget. That's why, we at webfixxers offer you a variety of affordable and full fledged multi fuctional websites. When the websites move from being simple to more custom made with multiple windows the cost increases as it is labour intensive. But, don't you worry as we will get everything made for you within your budget so it fits perfect."
+      },
+      {
+         "Heading":"<p>OUR APPROACH</p>",
+         "SubHeading":"<p>Creativity and Insights</p>",
+         "Intro":"<p>By thinking outside of the box we find new and innovative solutions to make you stand out.</p>",
+         "CardHeading1":"Concept",
+         "CardInfo1":"We suggest our idea and work it out.",
+         "CardHeading2":"Build",
+         "CardInfo2":"Along the way we change everything to your needs.",
+         "CardHeading3":"Test",
+         "CardInfo3":"Finally we review and correct everything."
+      },
+      {
+         
+      }
+   ]
+}

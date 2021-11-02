@@ -1,0 +1,40 @@
+{
+    "meta":{
+       "title":"",
+       "description":""
+    },
+    "sections":[
+        {
+   
+        },
+     {
+        "Heading": "WHAT WE DOEN",
+        "SubHeading": "We starten je onlinewinkel in een paar dagen.",
+        "Intro":
+          "De nood om online te verkopen is nog nooit groter geweest, dus waarom niet met een eigen webshop?<br/><br/>Geen grote commissies of kosten. Enkel een basisplan."
+
+        },
+        {
+            "Heading1":"Start met Ecwid",
+            "Intro1":"U kent ecwid waarschijnlijk niet. Maar het is toch een super systeem. Hiermee kunt u voor een lage prijs uw webshop beheren en opstarten. Zo kunt U direct aan de slag met uw verkoop.",
+            "Heading2":"gemakkelijke betalingenmet mollie",
+            "Intro2":"Het belangrijkste in elke webshop is de betalingterminal. Hiermee ontvangt U betalingen. Mollie is zeer handig omdat we meer dan alleen bancontact en visa kunnen ontvangen. Dus verkoopt U nationaal of Europees, mollie maakt het allemaal mogelijk.",
+            "Heading3":"Op maat gemaakt",
+            "Intro3":"Voor een verdere professionalisering is het nodig om een volledig op maat gemaakte webshop te nemen. Heeft U al een boeking-systeem, boekhouding,kassa,stockbeheerder? Dan kan dit allemaal samengevoegd worden tot 1 werkend geheel. Zo hoeft U enkel maar bezig te zijn met de verkoop."
+        },
+        {
+           "Heading":"Onze aanpak",
+           "SubHeading":"Creativiteit en inzichten",
+           "Intro":"Met ons out of the box denken maken we je uitstaan van de rest.",
+           "CardHeading1":"Concept",
+           "CardInfo1":"We stellen een idee voor en werken het samen uit.",
+           "CardHeading2":"Build",
+           "CardInfo2":"Samen maken we alles op maat voor uw noden.",
+           "CardHeading3":"Test",
+           "CardInfo3":"Uiteindelijk zetten we nog de puntjes op de i."
+        },
+        {
+           
+        }
+    ]
+ }

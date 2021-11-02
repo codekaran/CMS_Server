@@ -1,0 +1,42 @@
+{
+   "meta":{
+      "title":"",
+      "description":""
+   },
+   "sections":[
+      {
+         
+      },
+      {
+       "Heading": "WHAT WE DO",
+       "SubHeading": "We can get your online store started in few days.",
+       "Intro":
+         "The need to sell online has never been greater. So why not start with your own website?<br/><br/>No need to pay big commissions to some random company. Make your own website and build your brand. It’s never to late to start a website !"
+      },
+      {
+           "Heading1": "Get Started wth Ecwid",
+           "Intro1":
+             "Ecwid is not known to many businesses, but it should. This cost effective and easy to use program helps you managing the website. It allows you to put up content and put up new products. It’s great for small companies who don’t need a professional website right away. So let’s get started with selling !",
+           "Heading2": "Easy Payments with mollie",
+           "Intro2":
+             "This is the most needed item in any webshop. The payment system. It allows you to sell to anybody and everywhere without any problem. Mollie allows you to sell via many systems besides visa and bank contact.",
+           "Heading3": "Get Custom made web Shop",
+           "Intro3":
+             "So you really need a fully equipped webshop with everything you can imagine? No problem, we can do that too. It’s a great undertaking but the best investment you can make for your business."
+      },
+      {
+         "Heading":"<p>OUR APPROACH</p>",
+         "SubHeading":"<p>Creativity and Insights</p>",
+         "Intro":"<p>By thinking outside of the box we find new and innovative solutions to make you stand out.</p>",
+         "CardHeading1":"Concept",
+         "CardInfo1":"We suggest our idea and work it out.",
+         "CardHeading2":"Build",
+         "CardInfo2":"Along the way we change everything to your needs.",
+         "CardHeading3":"Test",
+         "CardInfo3":"Finally we review and correct everything."
+      },
+      {
+         
+      }
+   ]
+}

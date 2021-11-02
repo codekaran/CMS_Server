@@ -1,0 +1,37 @@
+{
+    "meta":{
+       "title":"",
+       "description":""
+    },
+    "sections":[
+        {
+   
+        },
+     {
+           "Heading":"WAT WE DOEN",
+           "SubHeading":"wij maken websites op maat, om uw zaak op het internet te profileren.",
+           "Intro":"A website is more than just a marketplace it’s a face of your company. A good website nowadays is as important as a good service. The first thing many people do is to search your company and then come to you personally.<br/><br/>So why not make a fully equipped and beautiful website. This allows you to get new customers more easily and keep the standards high for the current ones."
+
+        },
+        {
+            "Heading1":"Your Ideas",
+            "Intro1":"Wij bij webfixxers geloven dat een website gemaakt wordt door de klant en ons. Wij vragen daarom om met ons een goed gesprek te hebben over uw noden. De design, de zaak, de noden en wat U graag heeft. Het moet allemaal besproken worden zodat wij uw een top website kunnen leveren. Wees daarom niet bang om ons te contacteren. Wij zijn altijd open voor vragen.",
+            "Heading2":"Budget",
+            "Intro2":"Wij geloven dat het internet voor iedereen is. Juist daarom maken we websites beschikbaar voor iedereen. Van een goedkope website naar de meest geavanceerde webshop mogelijk. Wij willen een zo goed mogelijke dienst verlenen aan de beste prijs. Dus neem met ons contact en we beantwoorden al uw vragen."
+        },
+        {
+           "Heading":"Onze aanpak",
+           "SubHeading":"Creativiteit en inzichten",
+           "Intro":"Met ons out of the box denken maken we je uitstaan van de rest.",
+           "CardHeading1":"Concept",
+           "CardInfo1":"We stellen een idee voor en werken het samen uit.",
+           "CardHeading2":"Build",
+           "CardInfo2":"Samen maken we alles op maat voor uw noden.",
+           "CardHeading3":"Test",
+           "CardInfo3":"Uiteindelijk zetten we nog de puntjes op de i."
+        },
+        {
+           
+        }
+    ]
+ }
