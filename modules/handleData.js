@@ -1,15 +1,18 @@
 const fs = require("fs");
 
-const handleData = (page, lang) => {
-  const data = fs.readFileSync("./JSON/" + lang + "/" + page + ".json", "utf8");
+const handleData = (page, lang, website) => {
+  const data = fs.readFileSync(
+    "./JSON/" + website + "/" + lang + "/" + page + ".json",
+    "utf8"
+  );
 
   return data;
 };
 exports.handleData = handleData;
 
-const updateJSON = (page, lang, data) => {
+const updateJSON = (page, lang, data, website) => {
   fs.writeFile(
-    "./JSON/" + lang + "/" + page + ".json",
+    "./JSON/" + website + "/" + lang + "/" + page + ".json",
     JSON.stringify(data),
     (err) => {
       if (err) {
@@ -23,10 +26,10 @@ const updateJSON = (page, lang, data) => {
 
 exports.updateJSON = updateJSON;
 
-const getPageList = (lang) => {
+const getPageList = (lang, website) => {
   let files;
   try {
-    files = fs.readdirSync("./JSON/" + lang);
+    files = fs.readdirSync("./JSON/" + website + "/" + lang);
     let temp = [];
     for (let i of files) {
       temp.push(i.split(".")[0]);
