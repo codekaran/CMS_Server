@@ -4,6 +4,7 @@ var router = express.Router();
 const { handleData } = require("../modules/handleData");
 const { updateJSON } = require("../modules/handleData");
 const { getPageList } = require("../modules/handleData");
+const { getLangList } = require("../modules/handleData");
 
 /* GET home page. */
 router.get("/getData", function (req, res, next) {
@@ -32,4 +33,9 @@ router.get("/getPageList", async function (req, res, next) {
   res.status(200).json({ data: list });
 });
 
+router.get("/getLangList", async function (req, res, next) {
+  let list = await getLangList(req.query.website || "webfixxers");
+  console.log(list);
+  res.status(200).json({ data: list });
+});
 module.exports = router;
