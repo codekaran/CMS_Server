@@ -1,9 +1,9 @@
 {
-    "meta":{
-       "title":"",
-       "description":""
-    },
-    "sections":[
+   "meta":{
+      "title":"",
+      "description":""
+   },
+   "sections":[
       {
          "Heading":"Service"
       },
@@ -28,6 +28,5 @@
          "CardHeading4":"Service 1",
          "CardIntro4":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit ut habitant eget ut nunc. Consequat quis senectus praesent vitae, nibh sit faucibus massa. Integer blandit quisque rutrum quis mauris blandit amet"
       }
-      ​
-    ]
- }
+   ]
+}
