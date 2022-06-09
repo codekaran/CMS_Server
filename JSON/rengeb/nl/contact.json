@@ -5,26 +5,19 @@
     },
     "sections":[
         {
-            "Heading":"Contact",
-            "SubHeading":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-            "Intro":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit ut habitant eget ut nunc. Consequat quis senectus praesent vitae, nibh sit faucibus massa. Integer blandit quisque rutrum quis mauris blandit amet. Et, mus fames fringilla nisi. Sit etiam egestas posuere id enim quis leo. Tortor consectetur egestas dapibus non."
+            "Heading":"CONTACT US",
+            "SubHeading1":"LET&apos;S CONNECT",
+            "SubHeading2":"Drop us your message and we will back to you as soon as possible"
          },
          {
-            "Heading":"Let's Connect",
-            "SubHeading":"Do you have any query? Or just want to talk over a coffee",
-            "FormFName":"First name",
-            "FormLName":"Last Name",
-            "FormEmail":"Email Address",
-            "FormMessage":"Message"
-         },
-         {
-            "Heading":"Get in touch",
-            "PhoneHeading":"Contact no.",
-            "PhoneSubHeading":"+362 2522065132",
-            "EmailHeading":"Email address",
-            "EmailSubHeading":"hello@gmail.com",
-            "AddressHeading":"Address",
-            "AddressSubHeading":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit uthabitant eget ut nunc"
+            "Heading":"KEEP IN TOUCH",
+            "SubHeading":"LET&apos;S START A FRUITFUL <br /> CONVERSATION.",
+            "CallHeading":"Call Us 24/7",
+            "Number":"(+1)800-600-2323",
+            "MailHeading":"Mail Us 24/7",
+            "Mail":"Info@rengebxweb.co.in",
+            "AddressHeading":"Visit Us 24/7",
+            "Address":"1508 North Street, <br />AustinTexas, US"
          }
     ]
  }
